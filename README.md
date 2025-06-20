@@ -10,7 +10,7 @@ Unfortunately, I couldn’t use the INA219 sensor (maximum current of 3.2 A) b
 I’m certain it will be interesting to compare the INA219 to the ACS758, as the two sensors differ so much in terms of design and performance.
 ![obraz](https://github.com/user-attachments/assets/2fd71b96-6bbf-4f46-9d97-9fb29c284e0e)
 
-Numerical integration performed using the rectangular method resulted in a total energy of 6.750622 Wh and a total charge of 1826.441 mAh.
+Numerical integration performed using the rectangular method resulted in a total energy of 6.75 Wh and a total charge of 1826 mAh.
 In the next measurement, I will try to compare these results with data from a more accurate INA219 sensor and also apply the trapezoidal method for numerical integration.
 
 
